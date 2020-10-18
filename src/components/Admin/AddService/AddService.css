@@ -1,0 +1,25 @@
+.add-new-service {
+  background: #fff;
+  width: 90%;
+  padding: 25px;
+  border-radius: 10px;
+}
+.up-img input[type="file"] {
+  display: none;
+}
+.up-img label {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #DEFFED;
+  border: 1px solid #009444;
+  box-sizing: border-box;
+  border-radius: 5px;
+  height: 36px;
+  position: relative;
+  top: 5px;
+}
+.add-new-service button {
+  
+}

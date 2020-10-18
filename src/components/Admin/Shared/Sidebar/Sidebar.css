@@ -1,0 +1,34 @@
+.list {
+  margin-top: 60px;
+}
+.list li {
+  list-style: none;
+  padding: 8px 20px;
+}
+.list li a {
+  color: #111111;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+  transition: 0.4 all ease;
+}
+.list li a:hover ,
+.list li a:hover small {
+  color: #009444;
+}
+.active {
+  color: #009444 !important;
+}
+.active small{
+  color: #009444 !important;
+}
+.list li small {
+  color: #000000;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+}
+.topbar {
+
+}

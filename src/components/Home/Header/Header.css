@@ -1,0 +1,24 @@
+.header {
+  background: #FBD062;
+  color: #111430;
+  min-height: 600px;
+  position: relative;
+}
+.header h3 {
+  font-weight: 700;
+  font-size: 48px;
+}
+.header small {
+  font-weight: 400;
+  font-size: 16px;
+}
+.header:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 200px;
+  background: #fff;
+  clip-path: polygon(100% 40%, 0% 100%, 100% 100%);
+}

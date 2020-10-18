@@ -1,0 +1,14 @@
+.login {
+  text-align: center;
+  margin-top: 50px;
+  padding: 70px;
+  border-radius: 5px;
+  border: 1px solid #ABABAB;
+}
+.login button {
+  border: 1px solid #C7C7C7;
+  border-radius: 36px;
+  background-color: #fff;
+  width: 100%;
+  padding: 8px;
+}

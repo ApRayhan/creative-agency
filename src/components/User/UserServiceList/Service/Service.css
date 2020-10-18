@@ -1,0 +1,21 @@
+.user-service {
+  background: #FFFFFF;
+  border-radius: 20px;
+  padding: 20px 30px;
+}
+.user-service a {
+  padding: 6px 22px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.user-service a.done {
+  background-color: #C6FFE0;
+  color: #009444;
+}
+.user-service a.pending {
+  background-color: #FFE3E3;
+  color: #FF4545;
+}
+.user-service .service-bottom {
+  margin-top: 15px;
+}

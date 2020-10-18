@@ -1,0 +1,31 @@
+
+.service {
+  margin-top: 100px;
+}
+.service img {
+  width: 74px;
+  height: 74px;
+}
+h3.tt {
+  font-size: 34px;
+  font-weight: 600;
+}
+.service h5 {
+  font-size: 20px;
+  font-weight: 600;
+}
+.service p {
+  font-size: 16px;
+  font-weight: 300;
+  color: #000000;
+}
+.single-item {
+  transition: .5s ease;
+  cursor: pointer;
+  border-radius: 6px;
+}
+.single-item:hover {
+  background-color: #FFFFFF;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0,0.6);
+  text-decoration: none;
+}

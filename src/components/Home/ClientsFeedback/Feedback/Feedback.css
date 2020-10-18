@@ -1,0 +1,19 @@
+.feedback {
+  padding: 30px;
+  border: 1px solid #BFBFBF;
+  margin: 8px;
+}
+.feedback h6 {
+  font-weight: 600;
+  font-size: 20px;
+  margin: 0;
+}
+.feedback p {
+  font-weight: 500;
+  font-size: 16px;
+}
+.feedback small {
+  font-weight: 400;
+  font-size: 16px;
+  color: #707070;
+}

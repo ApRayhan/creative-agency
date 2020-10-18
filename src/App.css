@@ -1,0 +1,30 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: Poppins;
+  color: #111430;
+}
+a {
+  text-decoration: none;
+}
+.icon_class {
+  width: 74px;
+  height: 74px;
+}
+.bg_color {
+  background-color: #E5E5E5;
+}
+.logo {
+  height: 47px;
+  width: 150px;
+}
+.black_btn {
+  background-color: #111430;
+  border-radius: 5px;
+  color: white !important;
+  padding: 7px 30px;
+  transition: .3s all ease;
+  border: none;
+}
+.black_btn:hover {
+  text-decoration: none;
+  background-color: #343437;
+}
